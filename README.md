@@ -1,5 +1,3 @@
-# Clean-the-Netflix-Dataset
-Clean the Netflix Dataset use python
 # Analysing Netflix Data Cleaning
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge)
