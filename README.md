@@ -28,6 +28,13 @@ Key objectives:
 
 ---
 
+## Dataset
+
+Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+The original dataset contains 8,807 rows and 12 columns.
+
+
 ## Tech Stack
 
 - Python
